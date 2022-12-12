@@ -1,2 +1,1 @@
-# CPrograms
-C programs to learn
+# MY FIRST CODE
